@@ -7,4 +7,4 @@ Testing!
 
 ## Local Development
 
-1.  Open index.html ib your browser.
+1.  Open index.html ib your browser!!
